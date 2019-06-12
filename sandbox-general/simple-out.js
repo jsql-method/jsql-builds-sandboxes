@@ -1,5 +1,5 @@
 function test(){
 
-    jsql.select('59b335fe40e12596b071c4f82875838580785ceaaa3da8049bfabfb249aae');
+    jsql.select('92b206c7cf11c5b610d3674917d381e7827cd725c4a9e');
 
 }
