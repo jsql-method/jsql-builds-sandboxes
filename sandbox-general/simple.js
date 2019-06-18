@@ -1,5 +1,5 @@
 function test(){
 
-    jsql.select('@sql select * from person');
+    jsql.select('@sql select * from car');
 
 }
